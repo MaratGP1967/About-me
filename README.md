@@ -1,5 +1,5 @@
 # Краткая информация о себе
-![foto jpeg](https://img.hhcdn.ru/photo/693510774.jpeg?t=1663334692&h=F3Myc1SrIZPv_mD6oKQI1g )
+![foto jpeg](Foto.jpg)
 
 <style type="text/css">
     img {
